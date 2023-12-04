@@ -1,0 +1,97 @@
+
+nav{
+    background-color: blue;
+    padding: 10px;
+}
+.a1{
+    position: absolute;
+    top: 35px;
+    left: 800px;
+    text-decoration: none;
+    border: none;
+    font-size: 20px;
+    margin: 10px;
+}
+.a2{
+    position: absolute;
+    top: 35px;
+    left: 900px;
+    text-decoration: none;
+    border: none;
+    font-size: 20px;
+    margin: 10px;
+}
+.button3{
+    background-color: rgb(98, 202, 98);
+    padding: 8px;
+    width: 80px;
+    border: none;
+}
+h2{
+    display: inline;
+    color: rgb(88, 85, 85);
+}
+input{
+    width: 450px;
+    height: 30px;
+}
+.button1{
+    background-color: cornflowerblue;
+    padding: 8px;
+    color: white; 
+    width: 90px; 
+    border: none;
+}
+.button2{
+    background-color: coral;
+    padding: 8px;
+    color: white; 
+    width: 90px; 
+    border: none;
+}
+.main{
+    background-color: gray;
+    margin: 30px;
+    width: 1200px;
+}
+.main1{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.main1 div{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px;
+    width: 200px;
+    height: 300px; 
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+h4{
+    text-align: center;
+    font-size: 24px;
+    color: white;
+}
+button:hover{
+    background-color: darkgreen;
+}
+.box:hover{
+    color: grey;
+}
+a:hover{
+    background-color: dimgrey;
+}
+h4:hover{
+    color: blue;
+}
+.box{
+    margin: 40px;
+}
+
+   
